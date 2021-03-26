@@ -1,4 +1,4 @@
-package MarteGroup;
+package marteGroup;
 
 public class FuegoArtificial implements Explotable{
     private String ruido;

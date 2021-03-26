@@ -1,4 +1,4 @@
-package MarteGroup;
+package marteGroup;
 
 import java.util.ArrayList;
 

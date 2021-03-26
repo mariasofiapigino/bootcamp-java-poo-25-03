@@ -1,4 +1,4 @@
-package MarteGroup;
+package marteGroup;
 
 public class InvitadoMeli implements Invitado{
     @Override
